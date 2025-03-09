@@ -1,7 +1,6 @@
 # **🔍 Job Matcher API**  
 🚀 **An AI-powered job matching system using NLP & Deep Learning**  
 
-![Job Matcher Banner](https://source.unsplash.com/1600x400/?technology,ai,jobs)  
 
 ---
 
